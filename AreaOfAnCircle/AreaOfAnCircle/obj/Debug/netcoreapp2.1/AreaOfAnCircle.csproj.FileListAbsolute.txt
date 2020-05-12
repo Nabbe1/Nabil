@@ -1,0 +1,11 @@
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\bin\Debug\netcoreapp2.1\AreaOfAnCircle.deps.json
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\bin\Debug\netcoreapp2.1\AreaOfAnCircle.runtimeconfig.json
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\bin\Debug\netcoreapp2.1\AreaOfAnCircle.runtimeconfig.dev.json
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\bin\Debug\netcoreapp2.1\AreaOfAnCircle.dll
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\bin\Debug\netcoreapp2.1\AreaOfAnCircle.pdb
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\obj\Debug\netcoreapp2.1\AreaOfAnCircle.csprojAssemblyReference.cache
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\obj\Debug\netcoreapp2.1\AreaOfAnCircle.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\obj\Debug\netcoreapp2.1\AreaOfAnCircle.AssemblyInfoInputs.cache
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\obj\Debug\netcoreapp2.1\AreaOfAnCircle.AssemblyInfo.cs
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\obj\Debug\netcoreapp2.1\AreaOfAnCircle.dll
+C:\Users\Nabil\source\repos\AreaOfAnCircle\AreaOfAnCircle\obj\Debug\netcoreapp2.1\AreaOfAnCircle.pdb

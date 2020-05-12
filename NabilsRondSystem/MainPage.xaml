@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Streckkodtest"
+             x:Class="NabilsRondSystem.MainPage">
+    <ContentPage.Content>
+
+
+        <StackLayout BackgroundColor="LightGray" Padding="15" Spacing="15">
+            <StackLayout BackgroundColor="Linen">
+                <Button x:Name="btnScanDefault" BackgroundColor="LightSteelBlue" Text="Scanna Plats" />
+
+                <Label x:Name="lbluser" Text="Användar ID"/>
+                <Entry x:Name="entuser" Text=""/>
+
+                <Label x:Name="lblplats" Text="Scannad Plats"/>
+                <Entry x:Name="entplats" Text=""/>
+
+                <Label x:Name="lblfelrapport" Text="Skriv Felrapport"/>
+                <Entry x:Name="entfelrapport" Text=""/>
+
+                <Button x:Name="btnListall" BackgroundColor="LightSteelBlue" Text="Skicka Rond" Clicked="BtnListall_Clicked" IsVisible="True"/>
+
+                <Button Text="Login Sida" Clicked="Button_Clicked" />
+     
+
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\Frank\source\repos\CarService\CarService\bin\CarService.dll.config
+C:\Users\Frank\source\repos\CarService\CarService\bin\CarService.dll
+C:\Users\Frank\source\repos\CarService\CarService\bin\CarService.pdb
+C:\Users\Frank\source\repos\CarService\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\Frank\source\repos\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\Nabil\Desktop\Spara\CarService\CarService\bin\CarService.dll.config
+C:\Users\Nabil\Desktop\Spara\CarService\CarService\bin\CarService.dll
+C:\Users\Nabil\Desktop\Spara\CarService\CarService\bin\CarService.pdb
+C:\Users\Nabil\Desktop\Spara\CarService\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+C:\Users\Nabil\Desktop\Spara\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\Desktop\Spara\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\Nabil\Desktop\Spara\CarService\CarService\obj\Debug\CarService.pdb

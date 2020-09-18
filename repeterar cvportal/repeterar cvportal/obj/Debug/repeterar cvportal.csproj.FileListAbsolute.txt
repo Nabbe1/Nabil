@@ -1,0 +1,7 @@
+C:\Users\Nabil\source\repos\repeterar cvportal\repeterar cvportal\bin\Debug\repeterar cvportal.exe.config
+C:\Users\Nabil\source\repos\repeterar cvportal\repeterar cvportal\bin\Debug\repeterar cvportal.exe
+C:\Users\Nabil\source\repos\repeterar cvportal\repeterar cvportal\bin\Debug\repeterar cvportal.pdb
+C:\Users\Nabil\source\repos\repeterar cvportal\repeterar cvportal\obj\Debug\repeterar cvportal.csprojAssemblyReference.cache
+C:\Users\Nabil\source\repos\repeterar cvportal\repeterar cvportal\obj\Debug\repeterar cvportal.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\source\repos\repeterar cvportal\repeterar cvportal\obj\Debug\repeterar cvportal.exe
+C:\Users\Nabil\source\repos\repeterar cvportal\repeterar cvportal\obj\Debug\repeterar cvportal.pdb

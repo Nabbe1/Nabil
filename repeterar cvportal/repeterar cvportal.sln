@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repeterar cvportal", "repeterar cvportal\repeterar cvportal.csproj", "{F6B59000-E25D-4A37-86A7-811D810ED15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B59000-E25D-4A37-86A7-811D810ED15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B59000-E25D-4A37-86A7-811D810ED15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B59000-E25D-4A37-86A7-811D810ED15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B59000-E25D-4A37-86A7-811D810ED15E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC11A5B2-B8FE-428F-A29A-3C37C5F68671}
+	EndGlobalSection
+EndGlobal

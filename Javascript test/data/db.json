@@ -1,0 +1,22 @@
+{
+  "customer1": [
+    {
+      "name": "Johanna",
+      "id": 3
+    },
+    {
+      "name": "Nabil Benali",
+      "id": 4
+    }
+  ],
+  "customer2": [
+    {
+      "name": "Johanna",
+      "id": 3
+    },
+    {
+      "name": "Nabil Benali",
+      "id": 4
+    }
+  ]
+}
